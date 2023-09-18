@@ -141,3 +141,6 @@ GitHub.sublime-settings
 *.csv
 *.xlsx
 Data/
+Presentations/
+*.pdf
+*.ppt*
